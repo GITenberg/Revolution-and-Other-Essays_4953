@@ -1,0 +1,30 @@
+_repo: Revolution-and-Other-Essays_4953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Revolution -- The somnambulists -- The dignity of dollars -- Goliah
+  -- The golden poppy -- The shrinkage of the planet -- The house beautiful -- The
+  gold hunters of the North -- Fomá Gordyéeff -- These bones shall rise again -- The
+  others animals -- The yellow peril -- What life means to me.
+title: Revolution, and Other Essays
+url: http://www.gutenberg.org/ebooks/4953
